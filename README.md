@@ -1,4 +1,5 @@
 # vue-electron-template
+Boilerplate code for **Vue.js** + **Electron.js**
 
 ## Project setup
 Install dependencies
